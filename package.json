@@ -1,0 +1,42 @@
+{
+    "name": "@sampotts/eslint-config",
+    "version": "0.0.1",
+    "description": "A simple ESLint configuration",
+    "repository": "git://github.com/sampotts/eslint-config.git",
+    "license": "MIT",
+    "main": "es6.js",
+    "author": {
+        "name": "Sam Potts",
+        "email": "sam@potts.es",
+        "url": "https://potts.es"
+    },
+    "dependencies": {
+        "eslint": "^6.8.0",
+        "eslint-config-airbnb": "^18.1.0",
+        "eslint-config-prettier": "^6.10.1",
+        "eslint-plugin-import": "^2.20.2",
+        "eslint-plugin-jsx-a11y": "^6.2.3",
+        "eslint-plugin-prettier": "^3.1.2",
+        "eslint-plugin-react": "^7.19.0",
+        "eslint-plugin-react-hooks": "^3.0.0",
+        "eslint-plugin-simple-import-sort": "^5.0.2",
+        "prettier": "^2.0.4",
+        "prettier-eslint": "^9.0.1"
+    },
+    "peerDependencies": {
+        "eslint": "^6.8.0",
+        "eslint-config-airbnb": "^18.1.0",
+        "eslint-config-prettier": "^6.10.1",
+        "eslint-plugin-import": "^2.20.2",
+        "eslint-plugin-jsx-a11y": "^6.2.3",
+        "eslint-plugin-prettier": "^3.1.2",
+        "eslint-plugin-react": "^7.19.0",
+        "eslint-plugin-react-hooks": "^3.0.0",
+        "eslint-plugin-simple-import-sort": "^5.0.2",
+        "prettier": "^2.0.4",
+        "prettier-eslint": "^9.0.1"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}
