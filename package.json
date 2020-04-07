@@ -3,6 +3,9 @@
     "version": "0.0.1",
     "description": "A simple ESLint configuration",
     "repository": "git://github.com/sampotts/eslint-config.git",
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    },
     "license": "MIT",
     "main": "es6.js",
     "author": {
