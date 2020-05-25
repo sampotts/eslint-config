@@ -9,6 +9,7 @@ module.exports = {
     'plugin:prettier/recommended',
     'prettier/@typescript-eslint',
     '@sampotts/eslint-config/rules/common',
+    '@sampotts/eslint-config/rules/ts',
   ].map(require.resolve),
   plugins: [],
   rules: {},
