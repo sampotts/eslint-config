@@ -21,5 +21,8 @@ module.exports = {
 
     // Let prettier take care of it
     '@typescript-eslint/indent': 'off',
+
+    // This one is annoying
+    "@typescript-eslint/explicit-function-return-type": "off"
   },
 };
