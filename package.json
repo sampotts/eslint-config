@@ -1,6 +1,6 @@
 {
   "name": "@sampotts/eslint-config",
-  "version": "1.1.3",
+  "version": "1.0.0",
   "description": "A simple ESLint configuration",
   "repository": "git://github.com/sampotts/eslint-config.git",
   "publishConfig": {
@@ -14,8 +14,8 @@
     "url": "https://potts.es"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^3.10.1",
-    "eslint": "^7.9.0",
+    "@typescript-eslint/eslint-plugin": "^3.4.0",
+    "eslint": "^7.3.1",
     "eslint-config-airbnb": "^18.2.0",
     "eslint-config-airbnb-typescript": "^9.0.0",
     "eslint-config-prettier": "^6.11.0",
