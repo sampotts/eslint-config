@@ -1,6 +1,6 @@
 {
   "name": "@sampotts/eslint-config",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A simple ESLint configuration",
   "repository": "git://github.com/sampotts/eslint-config.git",
   "publishConfig": {
@@ -33,8 +33,7 @@
     "typescript": "^4.0.3"
   },
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^4.2.0",
-    "@typescript-eslint/parser": "^4.2.0",
+    "@typescript-eslint/eslint-plugin": "^3.10.1",
     "eslint": "^7.9.0",
     "eslint-config-airbnb": "^18.2.0",
     "eslint-config-airbnb-typescript": "^10.0.0",
