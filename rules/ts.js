@@ -23,6 +23,6 @@ module.exports = {
     '@typescript-eslint/indent': 'off',
 
     // This one is annoying
-    "@typescript-eslint/explicit-function-return-type": "off"
+    '@typescript-eslint/explicit-function-return-type': 'off',
   },
 };

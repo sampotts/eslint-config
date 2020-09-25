@@ -49,5 +49,8 @@ module.exports = {
         assert: 'either',
       },
     ],
+
+    // We kinda need this to pass some props on...
+    'react/jsx-props-no-spreading': 'off',
   },
 };

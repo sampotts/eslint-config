@@ -11,5 +11,8 @@ module.exports = {
     '@sampotts/eslint-config/rules/ts',
   ].map(require.resolve),
   plugins: [],
-  rules: {},
+  rules: {
+    // TypeScript can handle prop validation
+    'react/prop-types': 'off',
+  },
 };
