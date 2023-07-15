@@ -1,7 +1,7 @@
 /* eslint-env node */
 
 module.exports = {
-	plugins: ['import'],
+	plugins: ['simple-import-sort', 'import'],
 	extends: ['eslint:recommended'],
 	env: {
 		es6: true,
