@@ -81,7 +81,6 @@ module.exports = {
 		'sort-imports': 'off',
 		'import/no-duplicates': 'error',
 		'import/order': 'off',
-		'import/extensions': 'off',
 		'import/first': 'error',
 		'import/newline-after-import': 'error',
 		'simple-import-sort/imports': 'error',

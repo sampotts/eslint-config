@@ -78,21 +78,5 @@ module.exports = {
 				allowNumber: true,
 			},
 		],
-
-		// TODO: Re-enable at a later date
-		// Fix TypeScript extension issues
-		// https://github.com/airbnb/javascript/blob/master/packages/eslint-config-airbnb-base/rules/imports.js#L139
-		// https://stackoverflow.com/questions/59265981/typescript-eslint-missing-file-extension-ts-import-extensions
-		'import/extensions': [
-			'error',
-			'ignorePackages',
-			{
-				js: 'never',
-				mjs: 'never',
-				jsx: 'never',
-				ts: 'never',
-				tsx: 'never',
-			},
-		],
 	},
 };
