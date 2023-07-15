@@ -1,6 +1,6 @@
 {
 	"name": "@sampotts/eslint-config",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"description": "A simple ESLint configuration",
 	"repository": "git://github.com/sampotts/eslint-config.git",
 	"type": "commonjs",
